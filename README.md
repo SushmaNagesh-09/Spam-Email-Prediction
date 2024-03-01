@@ -22,7 +22,7 @@ Workflow:
    
   4. Model Training: Split the dataset into training and testing sets. Train a logistic regression model on the training data.
    
-  5. Model Evaluation: Evaluate the performance of the trained model on the testing data using accuracy score or other relevant metrics.
+  5. Model Evaluation: Evaluate the performance of the trained model on the testing data using an accuracy score or other relevant metrics.
     
   6. Prediction: Use the trained model to predict whether new incoming emails are spam or non-spam.
 
